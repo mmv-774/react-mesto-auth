@@ -1,5 +1,7 @@
+import AuthForm from './AuthForm';
+
 function Login() {
-  return <h2>Login</h2>;
+  return <AuthForm title={'Вход'} submitCaption={'Войти'} />;
 }
 
 export default Login;
