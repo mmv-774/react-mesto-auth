@@ -1,7 +1,7 @@
 import AuthForm from './AuthForm';
 
-function Login() {
-  return <AuthForm title={'Вход'} submitCaption={'Войти'} />;
+function Login({ title, submitCaption, onSubmit }) {
+  return <AuthForm title={title} submitCaption={submitCaption} onSubmit={onSubmit} />;
 }
 
 export default Login;

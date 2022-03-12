@@ -1,12 +1,15 @@
-import { Link } from 'react-router-dom';
 import AuthForm from './AuthForm';
+import { Link } from 'react-router-dom';
 
-function Register() {
+function Register({ title, submitCaption, onSubmit }) {
   return (
-    <AuthForm title={'Регистрация'} submitCaption={'Зарегистрироваться'}>
-      <Link className='auth__link animated-element' to='/sign-in'>
-        Уже зарегистрированы? Войти
-      </Link>
+    <AuthForm title={title} submitCaption={submitCaption} onSubmit={onSubmit}>
+      <p className='auth__text'>
+        Уже зарегистрированы?{' '}
+        <Link className='auth__link animated-element' to='/sign-in'>
+          Войти
+        </Link>
+      </p>
     </AuthForm>
   );
 }
