@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.266c7725.css",
+    "main.js": "./static/js/main.b9abb81f.js",
+    "static/js/787.5530211c.chunk.js": "./static/js/787.5530211c.chunk.js",
+    "static/media/Inter-Medium.woff": "./static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff": "./static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "./static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2": "./static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "./static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "./static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/header-logo.svg": "./static/media/header-logo.9acae8482e5b5b17160c46db4e2718a2.svg",
+    "static/media/card-like.svg": "./static/media/card-like.1ad06e85f169668a1f36.svg",
+    "index.html": "./index.html",
+    "static/media/card-delete.svg": "./static/media/card-delete.e3c42771bff3aaa52f76.svg",
+    "static/media/message-fail-icon.svg": "./static/media/message-fail-icon.d0f413bf3805a1fd4973010d44b06f2f.svg",
+    "static/media/message-success-icon.svg": "./static/media/message-success-icon.a9eb6caf1da3ff48b215fb1dd9477d74.svg",
+    "static/media/card-like-active.svg": "./static/media/card-like-active.35948469632d0421d697.svg",
+    "static/media/profile-btn-edit.svg": "./static/media/profile-btn-edit.6c7bf05444b9793fdf6e.svg",
+    "static/media/popup-btn-close.svg": "./static/media/popup-btn-close.039f1f5203f653b4bacd.svg",
+    "static/media/profile-btn-add.svg": "./static/media/profile-btn-add.bed8c136e13907f5eefb.svg",
+    "main.266c7725.css.map": "./static/css/main.266c7725.css.map",
+    "main.b9abb81f.js.map": "./static/js/main.b9abb81f.js.map",
+    "787.5530211c.chunk.js.map": "./static/js/787.5530211c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.266c7725.css",
+    "static/js/main.b9abb81f.js"
+  ]
+}
